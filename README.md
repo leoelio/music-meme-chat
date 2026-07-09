@@ -3,7 +3,7 @@
 把打字变成触发音乐名场面的互动体验。它不是普通音乐播放器，而是一个面向聊天场景的“音乐版表情包”原型：用户输入文字后，系统实时识别最合适的音频梗，先试听，再像微信语音条一样发送给对方。
 
 <p align="center">
-  <img src="./docs/images/hero-showcase.jpg" alt="玩音梗产品展示" width="900" />
+  <img src="./docs/images/hero-showcase.png" alt="玩音梗产品展示" width="900" />
 </p>
 
 ## 项目亮点
