@@ -1,0 +1,37 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# local runtime artifacts
+.tmp/
+.tools/
+.tunnel/
+.checkpoints/
+*.log
+
+# local planning / source material
+6.22设计相关/
+design/
+test mp3/
+腾讯音乐 AI Hackathon 资料包/
+*.docx
+*.mp4
+*.zip
+design-qa.md
+Group 5.*
+Group 9.*
+
+# audio clips are intentionally not published in the public repo
+public/audio/*
+!public/audio/README.md
+
+# duplicate / reference-only visual sources
+public/ui-622/*
+!public/ui-622/hanchan-kuanhei.otf
+public/figma-622/reference-*.jpg
+
+# system files
+.DS_Store
+Thumbs.db
